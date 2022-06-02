@@ -31,6 +31,8 @@ body {
 
 h1 {
   font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
 }
 
 h2 {
@@ -69,4 +71,26 @@ footer {
 
 a {
   color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color:brown;
+}
+
+a:active {
+  color: brown;
+}
+
+.address {
+ margin-bottom: 5px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
