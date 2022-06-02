@@ -28,10 +28,28 @@ body {
   width: 25%;
 }
 
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.established {
+  font-style: italic;
+}
+
 h1, h2 {
   font-family: Impact, serif;
 }
 
 .item p {
   display: inline-block;
+}
+
+hr{
+  height: 3px;
+  background-color: brown;
+  border: brown;
 }
